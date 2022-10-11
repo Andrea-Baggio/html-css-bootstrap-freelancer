@@ -2,3 +2,20 @@
     background-color: var(--bs-secondary);
     height: 50px;
 }
+
+.header_bg {
+    background-color: var(--bs-teal);
+    height: 200px;
+}
+
+.pt_h {
+    height: 80px;
+}
+
+.img_bg {
+    background-color: rgb(216, 133, 25);
+    height: 250px;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
